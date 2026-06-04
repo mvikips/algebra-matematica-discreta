@@ -36,9 +36,13 @@ La investigación se despliega a lo largo de diez módulos independientes. Cada 
 
 Este entorno de desarrollo y la rigurosidad aplicada en su diseño visual y conceptual se sustentan en una trayectoria de formación continua en tecnologías analíticas y comunicación visual:
 
-* **Diseño Gráfico Certificado (Escuela de Diseño y Comunicación BIOS)**: Formación avanzada orientada a la síntesis visual, maquetación limpia de interfaces de datos y estructuración profesional de soportes digitales.
+<p align="center">
+  <img src="diploma-algebra-1.jpg" width="32%" />
+  <img src="diploma-algebra-2.jpg" width="32%" />
+  <img src="diploma-algebra-3.jpg" width="32%" />
+</p>
 
-*(Nota: La documentación de soporte, el programa analítico de la certificación y las credenciales académicas se encuentran digitalizados y disponibles para su auditoría en la raíz del repositorio o mediante el control de versiones local).*
+*(Nota: La documentación de soporte, el programa analítico de las certificaciones y las credenciales académicas se encuentran digitalizados y disponibles para su de las autoridades en la raíz del repositorio o mediante el control de versiones local).*
 
 ```bash
 # Para clonar el entorno e instalar dependencias:
