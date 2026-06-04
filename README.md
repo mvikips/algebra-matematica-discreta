@@ -34,7 +34,10 @@ La investigación se despliega a lo largo de diez módulos independientes. Cada 
 
 ## 🎓 Certificaciones y Respaldo Académico
 
-Este entorno de desarrollo y la rigurosidad aplicada en su diseño visual y conceptual se sustentan en una trayectoria de formación continua en tecnologías analíticas y comunicación visual:
+Este entorno de desarrollo y la rigurosidad aplicada en su diseño conceptual se sustentan en una sólida trayectoria de formación académica y técnica en ingeniería, analítica avanzada y comunicación visual:
+
+* **[Maestría en Visual Analytics & Big Data](./docs/master-visual-analytics.pdf)**: Especialización en el procesamiento, modelado estadístico y optimización de grandes volúmenes de datos complejos.
+* **[Ingeniería en Sistemas](./docs/titulo-ingenieria.pdf)**: Formación de grado enfocada en la arquitectura de software, algoritmia y estructuras de datos jerárquicas.
 
 <p align="center">
   <img src="diploma-algebra-1.jpg" width="32%" />
@@ -42,7 +45,7 @@ Este entorno de desarrollo y la rigurosidad aplicada en su diseño visual y conc
   <img src="diploma-algebra-3.jpg" width="32%" />
 </p>
 
-*(Nota: La documentación de soporte, el programa analítico de las certificaciones y las credenciales académicas se encuentran digitalizados y disponibles para su de las autoridades en la raíz del repositorio o mediante el control de versiones local).*
+*(Nota: Las credenciales de grado y posgrado se encuentran digitalizadas en formato PDF dentro de la carpeta [`docs/`](./docs) para su directa auditoría y validación metodológica).*
 
 ```bash
 # Para clonar el entorno e instalar dependencias:
