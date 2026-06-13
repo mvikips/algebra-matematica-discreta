@@ -311,5 +311,5 @@ Construcción de funciones jerárquicas complejas gobernadas por condiciones de 
 Habilidad para unificar el rigor del álgebra discreta con las demandas del análisis visual de Big Data, asegurando la reproducibilidad total de los experimentos clínicos.
 
 ## 7. Referencias 
-Toda la base teórica que respalda este notebook (incluyendo apuntes detallados, ejemplos prácticos, documentos de soporte, enlaces a videos y páginas web, repositorios de referencia *algunos comentados*, ejercicios resueltos y explicados y libros) se encuentra disponible y organizada en la carpeta [base_teorica](../../base_teorica).
+Toda la base teórica que respalda este notebook (incluyendo apuntes detallados, ejemplos prácticos, documentos de soporte, enlaces a videos y páginas web, repositorios de referencia *algunos comentados*, ejercicios resueltos y explicados y libros) se encuentra disponible y organizada en la carpeta [base_teorica](Base_teorica).
 ```
